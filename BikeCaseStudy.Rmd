@@ -95,6 +95,7 @@ colnames(tripdata202106)
 colnames(tripdata202107)
 colnames(tripdata202108)
 ```
+![image](https://user-images.githubusercontent.com/112521313/195654193-c2f16825-7e09-4401-a1b6-de96ad790fd9.png)
 
 All the columns are the same, so we can proceed merging all the data into a single CSV file.
 ```{r Write CSV, echo=T, results='hide'}
